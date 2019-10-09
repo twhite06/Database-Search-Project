@@ -2,7 +2,7 @@
  * Spring 2019, Tufts University
  * Modified by: Tim White
  * Date: 03/09/2019
- * README for 2048 Game Simulation Project
+ * README for Database Search Project
  
 Contributers: 
              Tim Gray
@@ -12,7 +12,7 @@ Purpose:
         
 
 Files Provided:
-               main.cpp
+               
                
   
 
