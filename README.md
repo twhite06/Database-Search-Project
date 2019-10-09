@@ -8,7 +8,7 @@
 
 * README for Database Search Project 
 
-* * * * * * * * * * * * This Read Me Is Currently Being Edited To Add More Descriptive Detail * * * * * * * * * * * * 
+* * * * * * * * * * * * This Read Me Is Currently Being Edited To Add More Descriptive Detail * * * 
 
   
 
